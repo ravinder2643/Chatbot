@@ -1,0 +1,4 @@
+Flask==2.0.2
+google==3.0.0
+streamlit==1.7.0
+flask-cors
